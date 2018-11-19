@@ -1,0 +1,6 @@
+*.[oa]
+a.out
+*.txt
+*.html
+/build
+satsolver
